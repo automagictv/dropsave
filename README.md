@@ -1,5 +1,5 @@
 # DropSave
-An automated file organizer (tutorial available on [YouTube](https://youtu.be/RdKgf8Z5cu4)). Files are extracted from a designated 'DropSave' folder and, based on the file name, stored in their appropriate destination folders with a datestamp prepended to the name. The script uses the first word in the file name to determine where to ultimately save the file.
+An automated file organizer (tutorial available on [YouTube](https://youtu.be/hlt5ZUNs4Ns)). Files are extracted from a designated 'DropSave' folder and, based on the file name, stored in their appropriate destination folders with a datestamp prepended to the name. The script uses the first word in the file name to determine where to ultimately save the file.
 
 For example, a file named `receipt March Cable Payment.pdf` would be saved into a receipts folder unde the name `YYMMDD_MarchCablePayment.pdf`
 
